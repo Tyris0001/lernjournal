@@ -9,7 +9,7 @@
 ### ToDo:
 - [x] JavaScript FormData
 - [x] JavaScript JSON
-- [ ] VueJS
+- [x] VueJS
 
 ### JavaScript FormData
 So we're currently learning how to do Post requests with Javascript. The reasoning is that if you use the ```GET``` method, you are not able to transfer as much information compared to the ```POST``` method.
